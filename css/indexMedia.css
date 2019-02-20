@@ -1,0 +1,18 @@
+/*原始宽度是1200px，小于或等于768px*/
+@media screen and (max-width: 768px){
+    .sou{
+        display:none;
+    }
+    .top_right{
+        float:none!important;
+    }
+    .logo {
+        display:none;
+    }
+    .search {
+        margin:50px auto 0 ;
+    }
+    .i_car {
+        display:none;
+    }
+}
